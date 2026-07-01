@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "Difference\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{DF2866E9-C8C5-42B0-B303-E33B46D927CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculate", "SimpleCalculate\SimpleCalculate.csproj", "{788E0167-0879-492C-9D95-D44019F07837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DF2866E9-C8C5-42B0-B303-E33B46D927CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF2866E9-C8C5-42B0-B303-E33B46D927CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF2866E9-C8C5-42B0-B303-E33B46D927CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788E0167-0879-492C-9D95-D44019F07837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788E0167-0879-492C-9D95-D44019F07837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788E0167-0879-492C-9D95-D44019F07837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788E0167-0879-492C-9D95-D44019F07837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
