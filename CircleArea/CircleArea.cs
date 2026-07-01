@@ -12,6 +12,8 @@ namespace Exercises
 
             Console.WriteLine("Welcome to the circle area calculator.");
 
+            Console.WriteLine("");
+
             Console.WriteLine("Enter the radius of your circle: ");
             R = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 

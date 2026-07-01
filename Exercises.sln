@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSum", "SimpleSum\Simp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProduct", "SimpleProduct\SimpleProduct.csproj", "{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "Difference\Difference.csproj", "{F67FFF2F-334A-4013-A265-2CEA018FFE40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{DF2866E9-C8C5-42B0-B303-E33B46D927CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67FFF2F-334A-4013-A265-2CEA018FFE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67FFF2F-334A-4013-A265-2CEA018FFE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67FFF2F-334A-4013-A265-2CEA018FFE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67FFF2F-334A-4013-A265-2CEA018FFE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2866E9-C8C5-42B0-B303-E33B46D927CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2866E9-C8C5-42B0-B303-E33B46D927CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2866E9-C8C5-42B0-B303-E33B46D927CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2866E9-C8C5-42B0-B303-E33B46D927CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

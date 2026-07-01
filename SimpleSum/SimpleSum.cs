@@ -10,7 +10,7 @@ namespace Exercises
 
             Console.WriteLine("Welcome to the addition calculator.");
 
-            Console.WriteLine(""); // Blank
+            Console.WriteLine("");
 
             Console.WriteLine("Enter a number:");
             A = int.Parse(Console.ReadLine());

@@ -10,6 +10,8 @@ namespace Exercises
 
             Console.WriteLine("Welcome to the area calculator.");
 
+            Console.WriteLine("");
+
             Console.WriteLine("Enter the width of your area.");
             width = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 

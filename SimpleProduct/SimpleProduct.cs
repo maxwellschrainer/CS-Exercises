@@ -11,6 +11,8 @@ namespace Exercise
 
             Console.WriteLine("Welcome to the multiplier.");
 
+            Console.WriteLine("");
+
             Console.WriteLine("Enter a number:");
             n1 = int.Parse(Console.ReadLine());
 
