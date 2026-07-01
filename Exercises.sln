@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSum", "SimpleSum\SimpleSum.csproj", "{62A4D8C5-73CA-42B3-83CE-B4DF68B9764A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProduct", "SimpleProduct\SimpleProduct.csproj", "{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{62A4D8C5-73CA-42B3-83CE-B4DF68B9764A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62A4D8C5-73CA-42B3-83CE-B4DF68B9764A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62A4D8C5-73CA-42B3-83CE-B4DF68B9764A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5DCD76-777A-4A6D-80BE-BBD8EAB129D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
