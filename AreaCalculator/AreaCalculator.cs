@@ -8,6 +8,8 @@ namespace Exercises
         {
             double width, lenght, squareMeterPrice, area, price;
 
+            Console.WriteLine("Welcome to the area calculator.");
+
             Console.WriteLine("Enter the width of your area.");
             width = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
