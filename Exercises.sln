@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculate", "SimpleCalculate\SimpleCalculate.csproj", "{788E0167-0879-492C-9D95-D44019F07837}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumption", "Consumption\Consumption.csproj", "{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{788E0167-0879-492C-9D95-D44019F07837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{788E0167-0879-492C-9D95-D44019F07837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{788E0167-0879-492C-9D95-D44019F07837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
