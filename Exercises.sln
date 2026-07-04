@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculate", "SimpleCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumption", "Consumption\Consumption.csproj", "{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{531ADC2D-CCC6-472C-AB36-1A4C6466ABF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531ADC2D-CCC6-472C-AB36-1A4C6466ABF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531ADC2D-CCC6-472C-AB36-1A4C6466ABF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531ADC2D-CCC6-472C-AB36-1A4C6466ABF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531ADC2D-CCC6-472C-AB36-1A4C6466ABF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
