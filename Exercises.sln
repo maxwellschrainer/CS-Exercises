@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumption", "Consumption\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sequencial Structure", "Sequencial Structure", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryWithBonus", "SalaryWithBonus\SalaryWithBonus.csproj", "{EE0FED3D-84D7-442D-8D80-0530CC8A6DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0FED3D-84D7-442D-8D80-0530CC8A6DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0FED3D-84D7-442D-8D80-0530CC8A6DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0FED3D-84D7-442D-8D80-0530CC8A6DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0FED3D-84D7-442D-8D80-0530CC8A6DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{DF2866E9-C8C5-42B0-B303-E33B46D927CA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{788E0167-0879-492C-9D95-D44019F07837} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{A9A650DC-A1F2-4325-9C2A-AEFC1FD3073E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{EE0FED3D-84D7-442D-8D80-0530CC8A6DE0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {437D55BC-0434-4963-AF3A-57EF15375364}
