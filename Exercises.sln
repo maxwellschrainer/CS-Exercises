@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sphere", "Sphere\Sphere.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{3F34B7FC-E109-434B-9FA0-352C3B533B2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGreatest", "The Greatest\TheGreatest.csproj", "{63A2C277-E250-4FEA-B463-5DFC5243F1D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{3F34B7FC-E109-434B-9FA0-352C3B533B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F34B7FC-E109-434B-9FA0-352C3B533B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F34B7FC-E109-434B-9FA0-352C3B533B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A2C277-E250-4FEA-B463-5DFC5243F1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A2C277-E250-4FEA-B463-5DFC5243F1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A2C277-E250-4FEA-B463-5DFC5243F1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A2C277-E250-4FEA-B463-5DFC5243F1D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +99,7 @@ Global
 		{EE0FED3D-84D7-442D-8D80-0530CC8A6DE0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{39DE6E89-5CCC-4DE8-A684-578C7BB686F4} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{3F34B7FC-E109-434B-9FA0-352C3B533B2B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{63A2C277-E250-4FEA-B463-5DFC5243F1D5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {437D55BC-0434-4963-AF3A-57EF15375364}
