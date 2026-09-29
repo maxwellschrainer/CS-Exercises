@@ -13,11 +13,11 @@ namespace Exercises
             x1 = double.Parse(valores[0], CultureInfo.InvariantCulture);
             y1 = double.Parse(valores[1], CultureInfo.InvariantCulture);
 
-            string[] vet2 = Console.ReadLine().Split(' ');
-            x2 = double.Parse(vet2[0], CultureInfo.InvariantCulture);
-            y2 = double.Parse(vet2[1], CultureInfo.InvariantCulture);
+            valores = Console.ReadLine().Split(' ');
+            x2 = double.Parse(valores[0], CultureInfo.InvariantCulture);
+            y2 = double.Parse(valores[1], CultureInfo.InvariantCulture);
 
-            distance = Math.Sqrt((x2 - x1) * 2) + ((y2 - y1) * 2);
+            distance = Math.Sqrt(Math.Pow(x2 - x1, 2.0) + Math.Pow(y2 - y1, 2.0));
 
             Console.WriteLine(distance.ToString("F4", CultureInfo.InvariantCulture));
         }
