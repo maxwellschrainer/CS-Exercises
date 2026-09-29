@@ -1,4 +1,6 @@
-﻿namespace Exercises
+﻿using System;
+
+namespace Exercises
 {
     public class TheGreatest
     {
