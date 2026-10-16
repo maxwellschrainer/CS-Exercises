@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenTwoPoints", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConvertion", "TimeConvertion\TimeConvertion.csproj", "{681F9A61-D7EB-4D62-B215-34DC4C08DFEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankNotes", "BankNotes\BankNotes.csproj", "{A9EA24FF-D890-4D68-98F2-B4B4BAE2AAF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{681F9A61-D7EB-4D62-B215-34DC4C08DFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{681F9A61-D7EB-4D62-B215-34DC4C08DFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{681F9A61-D7EB-4D62-B215-34DC4C08DFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EA24FF-D890-4D68-98F2-B4B4BAE2AAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EA24FF-D890-4D68-98F2-B4B4BAE2AAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EA24FF-D890-4D68-98F2-B4B4BAE2AAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EA24FF-D890-4D68-98F2-B4B4BAE2AAF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +120,7 @@ Global
 		{63A2C277-E250-4FEA-B463-5DFC5243F1D5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{782B9BD7-3BDA-40A9-B0F9-EAAEFD3B8F1D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{681F9A61-D7EB-4D62-B215-34DC4C08DFEA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A9EA24FF-D890-4D68-98F2-B4B4BAE2AAF7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {437D55BC-0434-4963-AF3A-57EF15375364}
