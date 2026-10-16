@@ -21,6 +21,8 @@ namespace Exercises
 
             Console.WriteLine(anos + " ano(s)");
             Console.WriteLine(meses + " mes(es)");
+            Console.WriteLine(anos + " anos(s)");
+            Console.WriteLine(meses + " mes(s)");
             Console.WriteLine(dias + " dia(s)");
         }
     }
