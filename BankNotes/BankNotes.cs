@@ -6,7 +6,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            int N, troco, troco50, troco20, troco10, troco5, troco2, troco1, n100, n50, n20, n10, n5, n2, n1;
+            int N, troco, n100, n50, n20, n10, n5, n2, n1;
 
             N = int.Parse(Console.ReadLine());
 
